@@ -1,0 +1,9 @@
+{
+  "name": "abhinay-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio of Chandupatla Abhinay Reddy, a static site deployed on Vercel.",
+  "scripts": {
+    "dev": "npx --yes serve@14.2.4 . -l 3000"
+  }
+}
